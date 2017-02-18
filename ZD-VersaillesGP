@@ -145,8 +145,11 @@
         "searchType" : [
             "organizations"
         ],
-        "searchLocalityDEPARTEMENT" : [
-            78
+        "searchLocalityNAME" : [
+	"Versailles",
+        "Bailly",
+	"Bièvres",
+	"Bois-d'Arcy"
         ]
     }
 }
