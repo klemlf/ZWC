@@ -149,7 +149,26 @@
 	"Versailles",
         "Bailly",
 	"Bièvres",
-	"Bois-d'Arcy"
-        ]
+	"Bois-d'Arcy",
+	"Bougival",
+	"Buc",
+	"Châteaufort",
+	"Fontenay-le-Fleury",
+	"Jouy-en-Josas",
+	"La Celle-Saint-Cloud",
+	"Le Chesnay",
+	"Les Loges-en-Josas",
+	"Noisy-le-Roi",
+	"Rennemoulin",
+	"Rocquencourt",
+	"Saint-Cyr-l'École",
+	"Toussus-le-Noble",
+	"Vélizy-Villacoublay",
+	"Viroflay"
+        ],
+        "searchTag" : [
+            "Produits biologiques",
+            "vrac"
+	]
     }
 }
