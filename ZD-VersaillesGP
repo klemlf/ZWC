@@ -3,7 +3,7 @@
     "mode" : "server",
     "skin" : {
         "title" : "Carte Zéro Déchet Versailles Grand Parc",
-        "shortDescription" : "Carte Zéro Déchet des Colibris Versailles Grand Parc 2017 02 18 11h25",
+        "shortDescription" : "Carte Zéro Déchet des Colibris Versailles Grand Parc 2017 02 18 14h08",
         "displayScope" : false,
         "docs":true,
         "displayCommunexion" : true,
@@ -46,60 +46,71 @@
                 "background-color" : "#f5f5f5",
                 "image" : "Alimentation.png",
                 "tags" : {
-                  "Vrac" : "Vrac",
-                  "AccepteContenant" : "Accepte Contenant",
-				  "Epicerie" : "Epicerie",
-                  "Primeur" : "Primeur",
-                  "Caviste" : "Caviste",
-				  "Boulangerie" : "Boulangerie",
-				  "Patisserie" : "Patisserie",
-				  "Boucherie" : "Boucherie",
-				  "Poissonnerie" : "Poissonnerie",
-				  "Fromagerie" : "Fromagerie",
-				  "Restaurant" : "Restaurant",
-				  "Traiteur" : "Traiteur",
-				  "Amap" : "Amap",
-				  "GroupementDAchat" : "GroupementDAchat",
-				  "Droguerie" : "Droguerie"
+                  	"AccepteContenant":"AccepteContenant",
+			"Vrac":"Vrac",
+			"Produits biologiques":"Produits biologiques",
+			"Vente directe":"Vente directe",
+			"Groupement d'achat":"GroupementDAchat",
+			"Livraison de paniers":"Livraison de paniers",
+			"Alimentation":"Alimentation",
+			"Amap":"Amap",
+			"Boucherie":"Boucherie",
+			"Boulangerie":"Boulangerie",
+			"Caviste":"Caviste",
+			"Épicerie":"Épicerie",
+			"Fromagerie":"Fromagerie",
+			"Pâtisserie":"Pâtisserie",
+			"Poissonnerie":"Poissonnerie",
+			"Primeur":"Primeur",
+			"Restaurant":"Restaurant",
+			"Traiteur":"Traiteur",
+			"Jardin partagé	":"Jardin partagé",
+			"Grainothèque":"Grainothèque"
                 }
             },
-            "Je donne et j'achète d’occasion" : {
-                "tagParent" : "Service",
+            "Je donne, j'echange et j'achète d'occasion" : {
+                "tagParent" : "Equipement",
                 "background-color" : "#f5f5f5",
                 "image" : "Equipement.png",
                 "tags" : {
-			"Vêtements" : "Vêtements",
-                    "Electromenager" : "Electromenager",
-                    "Informatique" : "Informatique",
-                    "Ameublement" : "Ameublement",
-                    "Givebox" : "Givebox",
-			"Recyclerie" : "Recyclerie",
-                    "Occasion" : "Occasion"
+			"Occasion":"Occasion",
+			"Don":"Don",
+			"Troc":"Troc"
+			"Ressourcerie":"Ressourcerie",
+			"Meuble":"Meuble",
+			"Électroménager":"Électroménager",
+			"Informatique":"Informatique",
+			"Jouet":"Jouet",
+			"Outil":"Outil",
+			"Puériculture":"Puériculture",
+			"Friperie":"Friperie",
+			"Vêtement":"Vêtement"
                 }
             },
 	    
 	    "Je prends soin de moi et de ma maison" : {
                 "tagParent" : "Maison",
                 "background-color" : "#f5f5f5",
-                "image" : "Equipement.png",
+                "image" : "Logement.png",
                 "tags" : {
-		"Déco-Bijoux" : "Déco-Bijoux",
-		"Bien-être" : "Bien-être"
+			"Cosmétique":"Cosmétique",
+			"Déco-Bijoux":"Déco-Bijoux",
+			"Bien-être":"Bien-être",
+			"Droguerie":"Droguerie"
                 }
             },
             
-            "J'echange , je fais moi même, je répare" : {
+            "Je fais moi même, je répare" : {
                 "tagParent" : "Réparation",
                 "background-color" : "#f5f5f5",
                 "image" : "Reparation.png",
                 "tags" : {
-		"Vêtements" : "Vêtements",
-                "Friperie" : "Friperie",
-		"Electromenager" : "Electromenager",
-                "Informatique" : "Informatique",
-		 "UpCycling" : "UpCycling",
-                 "RepairCafé" : "RepairCafé",
-                 "DIY" : "DIY"
+			"Réparation":"Réparation",
+			"Atelier":"Atelier",
+			"DIY":"DIY",
+			"Fablab":"Fablab",
+			"Repair Café":"RepairCafé",
+			"Couturier":"Couturier"
                 }
             },
 
