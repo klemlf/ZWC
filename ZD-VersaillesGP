@@ -197,8 +197,31 @@
 	"Viroflay"
         ],
         "searchTag" : [
-            "Produits biologiques",
-            "vrac"
+		"AccepteContenant",
+		"Vrac",
+		"Jardin partagé",
+		"Grainothèque",
+		"Ressourcerie",
+		"Friperie",
+		"Occasion",
+		"Don",
+		"Troc",
+		"Atelier",
+		"Couturier",
+		"DIY",
+		"Fablab",
+		"RepairCafé",
+		"Réparation",
+		"Artothèque",
+		"Bibliothèque",
+		"Cinéma",
+		"Location",
+		"Ludothèque",
+		"Médiathèque",
+		"Outillothèque",
+		"Compost",
+		"Déchèterie",
+		"Conteneur"
 	]
     }
 }
