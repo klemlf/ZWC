@@ -3,7 +3,7 @@
     "mode" : "server",
     "skin" : {
         "title" : "Carte Zéro Déchet Versailles Grand Parc",
-        "shortDescription" : "Carte Zéro Déchet des Colibris Versailles Grand Parc 2017 02 18 15h34",
+        "shortDescription" : "Carte Zéro Déchet des Colibris Versailles Grand Parc 2017 02 18 15h37",
         "displayScope" : false,
         "docs":true,
         "displayCommunexion" : true,
@@ -109,7 +109,29 @@
         ],
         "searchTag" : [
 		"Accepte Contenant",
-		"Vrac"
+		"Vrac",
+		"Grainothèque",
+		"Ressourcerie",
+		"Friperie",
+		"Occasion",
+		"Don",
+		"Troc",
+		"Atelier",
+		"Couturier",
+		"DIY",
+		"Fablab",
+		"RepairCafé",
+		"Réparation",
+		"Artothèque",
+		"Bibliothèque",
+		"Cinéma",
+		"Location",
+		"Ludothèque",
+		"Médiathèque",
+		"Outillothèque",
+		"Compost",
+		"Déchèterie",
+		"Conteneur"
 	]
     }
 }
