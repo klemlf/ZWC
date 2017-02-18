@@ -1,0 +1,153 @@
+{
+    "name" : "Carte ZéroDéchet",
+    "mode" : "server",
+    "skin" : {
+        "title" : "Carte Zéro Déchet Versailles Grand Parc",
+        "shortDescription" : "Carte Zéro Déchet des Colibiris Versailles Grand Parc 2017 02 18 10h41",
+        "displayScope" : false,
+        "docs":true,
+        "displayCommunexion" : true,
+        "displayNotifications" : false,
+        "profilBar" : false,
+        "breadcrum" : true,
+        "displayButtonGridList" : false,
+        "class" : {
+            "mainContainer" : false
+        },
+        "iconeAdd" : false,
+        "iconeSearchPlus" : false,
+        "loginTitle":"",
+        "front" : {
+	        "organization" : true,
+	        "project" : false,
+	        "event" : false,
+	        "community" : false,
+	        "dda" : false,
+	        "live" : false,
+	        "search" : false,
+	        "need" : false,
+	        "poi" : true
+	    },
+	    "menu" : {
+		    "aroundMe":false,
+		    "connectLink":false,
+		    "add":true,
+		    "detail":true,
+		    "news":true,
+		    "directory":true,
+		    "gallery":true
+	    }
+    },
+   "filter" : {
+        "types" : false,
+        "linksTag" : {
+	    "Je me nourris" : {
+                "tagParent" : "Alimentation",
+                "background-color" : "#f5f5f5",
+                "image" : "Alimentation.png",
+                "tags" : {
+                  "Vrac" : "Vrac",
+                  "AccepteContenant" : "Accepte Contenant",
+				  "Epicerie" : "Epicerie",
+                  "Primeur" : "Primeur",
+                  "Caviste" : "Caviste",
+				  "Boulangerie" : "Boulangerie",
+				  "Patisserie" : "Patisserie",
+				  "Boucherie" : "Boucherie",
+				  "Poissonnerie" : "Poissonnerie",
+				  "Fromagerie" : "Fromagerie",
+				  "Restaurant" : "Restaurant",
+				  "Traiteur" : "Traiteur",
+				  "Amap" : "Amap",
+				  "GroupementDAchat" : "GroupementDAchat",
+				  "Droguerie" : "Droguerie"
+                }
+            },
+            "Je donne et j'achète d’occasion" : {
+                "tagParent" : "Service",
+                "background-color" : "#f5f5f5",
+                "image" : "Equipement.png",
+                "tags" : {
+			"Vêtements" : "Vêtements",
+                    "Electromenager" : "Electromenager",
+                    "Informatique" : "Informatique",
+                    "Ameublement" : "Ameublement",
+                    "Givebox" : "Givebox",
+			"Recyclerie" : "Recyclerie",
+                    "Occasion" : "Occasion"
+                }
+            },
+	    
+	    "Je prends soin de moi et de ma maison" : {
+                "tagParent" : "Maison",
+                "background-color" : "#f5f5f5",
+                "image" : "Equipement.png",
+                "tags" : {
+		"Déco-Bijoux" : "Déco-Bijoux",
+		"Bien-être" : "Bien-être"
+                }
+            },
+            
+            "J'echange , je fais moi même, je répare" : {
+                "tagParent" : "Réparation",
+                "background-color" : "#f5f5f5",
+                "image" : "Reparation.png",
+                "tags" : {
+		"Vêtements" : "Vêtements",
+                "Friperie" : "Friperie",
+		"Electromenager" : "Electromenager",
+                "Informatique" : "Informatique",
+		 "UpCycling" : "UpCycling",
+                 "RepairCafé" : "RepairCafé",
+                 "DIY" : "DIY"
+                }
+            },
+
+            "Je recherche un service" : {
+                "tagParent" : "Surface",
+                "background-color" : "#f5f5f5",
+                "image" : "Loisir.png",
+                "tags" : {
+                  "Bibliothèque" : "Bibliothèque",
+                  "Librairie" : "Librairie"
+                }
+            },
+	                "Je composte et je recycle" : {
+                "tagParent" : "Conteneur",
+                "background-color" : "#f5f5f5",
+                "image" : "ConteneurZW.png",
+                "tags" : {
+                  "Verre" : "Verre",
+                  "Papier" : "Papier",
+                  "Textiles" : "Textiles",
+                  "BioDéchet" : "BioDéchet",
+                  "Piles" : "Piles",
+                  "Atelier" : "Atelier",
+                  "électronique" : "électronique",
+                  "Décheterie" : "Décheterie"
+                }
+            }
+          }
+},
+    "add" : {
+        "organization" : true
+    },
+    "result" : {
+        "displayImage" : true,
+        "displayType" : true,
+        "fullLocality" : true,
+        "datesEvent" : false,
+	"displayShortDescription" : true
+    },
+    "request" : {
+        "sourcekey" : "zeroDechet",
+        "pagination" : 1000,
+        "searchType" : [
+            "organizations"
+        ],
+        "searchLocalityDEPARTEMENT" : [
+            75
+        ],
+	"mainTag" : ["ZéroDéchet"]
+    }
+}
