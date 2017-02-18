@@ -3,7 +3,7 @@
     "mode" : "server",
     "skin" : {
         "title" : "Carte Zéro Déchet Versailles Grand Parc",
-        "shortDescription" : "Carte Zéro Déchet des Colibris Versailles Grand Parc 2017 02 18 15h42",
+        "shortDescription" : "Carte Zéro Déchet des Colibris Versailles Grand Parc 2017 02 18 15h44",
         "displayScope" : false,
         "docs":true,
         "displayCommunexion" : true,
@@ -68,7 +68,7 @@
 			"Grainothèque":"Grainothèque"
                 }
             },
-		"Je donne, j'echange et j'achète d'occasion" : {
+		"Je donne j'echange et j'achète d'occasion" : {
                 "tagParent" : "Equipement",
                 "background-color" : "#f5f5f5",
                 "image" : "Equipement.png",
