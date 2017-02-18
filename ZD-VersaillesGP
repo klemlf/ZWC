@@ -67,97 +67,9 @@
 			"Jardin partagé	":"Jardin partagé",
 			"Grainothèque":"Grainothèque"
                 }
-            },
-            "Je donne, j'echange et j'achète d'occasion" : {
-                "tagParent" : "Equipement",
-                "background-color" : "#f5f5f5",
-                "image" : "Equipement.png",
-                "tags" : {
-			"Occasion":"Occasion",
-			"Don":"Don",
-			"Troc":"Troc"
-			"Ressourcerie":"Ressourcerie",
-			"Meuble":"Meuble",
-			"Électroménager":"Électroménager",
-			"Informatique":"Informatique",
-			"Jouet":"Jouet",
-			"Outil":"Outil",
-			"Puériculture":"Puériculture",
-			"Friperie":"Friperie",
-			"Vêtement":"Vêtement"
-                }
-            },
-	    
-	    "Je prends soin de moi et de ma maison" : {
-                "tagParent" : "Maison",
-                "background-color" : "#f5f5f5",
-                "image" : "Logement.png",
-                "tags" : {
-			"Cosmétique":"Cosmétique",
-			"Déco-Bijoux":"Déco-Bijoux",
-			"Bien-être":"Bien-être",
-			"Droguerie":"Droguerie"
-                }
-            },
-           
-            "Je fais moi même, je répare" : {
-                "tagParent" : "Réparation",
-                "background-color" : "#f5f5f5",
-                "image" : "Reparation.png",
-                "tags" : {
-			"Réparation":"Réparation",
-			"Atelier":"Atelier",
-			"DIY":"DIY",
-			"Fablab":"Fablab",
-			"Repair Café":"RepairCafé",
-			"Couturier":"Couturier"
-                }
-            },
-
-            "Je recherche un service culturel ou à la personne" : {
-                "tagParent" : "Surface",
-                "background-color" : "#f5f5f5",
-                "image" : "Loisir.png",
-                "tags" : {
-			"Artothèque":"Artothèque",
-			"Bibliothèque":"Bibliothèque",
-			"Cinéma":"Cinéma",
-			"Crèche":"Crèche",
-			"Location":"Location",
-			"Ludothèque":"Ludothèque",
-			"Médiathèque":"Médiathèque",
-			"Outillothèque":"Outillothèque"
-                }
-            },
-	      "Je composte et je recycle" : {
-                "tagParent" : "Conteneur",
-                "background-color" : "#f5f5f5",
-                "image" : "Service.png",
-                "tags" : {
-			"Compost":"Compost",
-			"Déchèterie":"Déchèterie",
-			"Conteneur":"Conteneur",
-			"Électronique":"Électronique",
-			"Papier":"Papier",
-			"Pile":"Pile",
-			"Textile":"Textile",
-			"Verre":"Verre"
-                }
-            },
-	       "Type de structure" : {
-                "tagParent" : "Structure",
-                "background-color" : "#f5f5f5",
-                "image" : "Information.png",
-                "tags" : {
-			"Association":"Association",
-			"Commerce":"Commerce",
-			"Entreprise":"Entreprise",
-			"Groupe de citoyen":"Groupe",
-			"Institution":"Institution",
-			"Monnaie Locale":"Monnaie Locale"
-                }
             }
-          }
+	 
+       }
 },
     "add" : {
         "organization" : true
@@ -198,30 +110,7 @@
         ],
         "searchTag" : [
 		"Accepte Contenant",
-		"Vrac",
-		"Jardin partagé",
-		"Grainothèque",
-		"Ressourcerie",
-		"Friperie",
-		"Occasion",
-		"Don",
-		"Troc",
-		"Atelier",
-		"Couturier",
-		"DIY",
-		"Fablab",
-		"RepairCafé",
-		"Réparation",
-		"Artothèque",
-		"Bibliothèque",
-		"Cinéma",
-		"Location",
-		"Ludothèque",
-		"Médiathèque",
-		"Outillothèque",
-		"Compost",
-		"Déchèterie",
-		"Conteneur"
+		"Vrac"
 	]
     }
 }
