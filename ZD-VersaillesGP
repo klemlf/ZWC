@@ -3,7 +3,7 @@
     "mode" : "server",
     "skin" : {
         "title" : "Carte Zéro Déchet Versailles Grand Parc",
-        "shortDescription" : "Carte Zéro Déchet des Colibris Versailles Grand Parc 2017 02 18 15h46",
+        "shortDescription" : "Carte Zéro Déchet des Colibris Versailles Grand Parc 2017 02 19 10h35",
         "displayScope" : false,
         "docs":true,
         "displayCommunexion" : true,
@@ -46,12 +46,13 @@
                 "background-color" : "#f5f5f5",
                 "image" : "Alimentation.png",
                 "tags" : {
-                  	"Accepte Contenant":"Accepte Contenant",
-			"Vrac":"Vrac",
+                  	">Accepte Contenant":"Accepte Contenant",
+			">Vrac":"Vrac",
 			"Produits biologiques":"Produits biologiques",
 			"Vente directe":"Vente directe",
 			"Groupement d'achat":"GroupementDAchat",
 			"Livraison de paniers":"Livraison de paniers",
+			">Marché":"Marché",
 			"Alimentation":"Alimentation",
 			"Amap":"Amap",
 			"Boucherie":"Boucherie",
@@ -64,8 +65,9 @@
 			"Primeur":"Primeur",
 			"Restaurant":"Restaurant",
 			"Traiteur":"Traiteur",
-			"Jardin partagé	":"Jardin partagé",
-			"Grainothèque":"Grainothèque"
+			">Jardin partagé":"Jardin partagé",
+			">Grainothèque":"Grainothèque",
+			">Source d'eau potable":"Eau potable"
                 }
             },
 		"Je donne j'echange et j'achète d'occasion" : {
@@ -73,17 +75,17 @@
                 "background-color" : "#f5f5f5",
                 "image" : "Equipement.png",
                 "tags" : {
-			"Occasion":"Occasion",
-			"Don":"Don",
-			"Troc":"Troc",
-			"Ressourcerie":"Ressourcerie",
+			">Occasion":"Occasion",
+			">Don":"Don",
+			">Troc":"Troc",
+			">Ressourcerie":"Ressourcerie",
 			"Meuble":"Meuble",
 			"Électroménager":"Électroménager",
 			"Informatique":"Informatique",
 			"Jouet":"Jouet",
 			"Outil":"Outil",
 			"Puériculture":"Puériculture",
-			"Friperie":"Friperie",
+			">Friperie":"Friperie",
 			"Vêtement":"Vêtement"
                 }
             },
@@ -105,12 +107,12 @@
                 "background-color" : "#f5f5f5",
                 "image" : "Reparation.png",
                 "tags" : {
-			"Réparation":"Réparation",
-			"Atelier":"Atelier",
-			"DIY":"DIY",
-			"Fablab":"Fablab",
-			"Repair Café":"RepairCafé",
-			"Couturier":"Couturier"
+			">Réparation":"Réparation",
+			">Atelier":"Atelier",
+			">DIY":"DIY",
+			">Fablab":"Fablab",
+			">Repair Café":"RepairCafé",
+			">Couturier":"Couturier"
                 }
             },
 
@@ -119,14 +121,14 @@
                 "background-color" : "#f5f5f5",
                 "image" : "Loisir.png",
                 "tags" : {
-			"Artothèque":"Artothèque",
-			"Bibliothèque":"Bibliothèque",
-			"Cinéma":"Cinéma",
+			">Artothèque":"Artothèque",
+			">Bibliothèque":"Bibliothèque",
+			">Cinéma":"Cinéma",
 			"Crèche":"Crèche",
-			"Location":"Location",
-			"Ludothèque":"Ludothèque",
-			"Médiathèque":"Médiathèque",
-			"Outillothèque":"Outillothèque"
+			">Location":"Location",
+			">Ludothèque":"Ludothèque",
+			">Médiathèque":"Médiathèque",
+			">Outillothèque":"Outillothèque"
                 }
             },
 	      "Je composte et je recycle" : {
@@ -134,9 +136,9 @@
                 "background-color" : "#f5f5f5",
                 "image" : "Service.png",
                 "tags" : {
-			"Compost":"Compost",
-			"Déchèterie":"Déchèterie",
-			"Conteneur":"Conteneur",
+			">Compost":"Compost",
+			">Déchèterie":"Déchèterie",
+			">Conteneur":"Conteneur",
 			"Électronique":"Électronique",
 			"Papier":"Papier",
 			"Pile":"Pile",
@@ -199,7 +201,9 @@
         "searchTag" : [
 		"Accepte Contenant",
 		"Vrac",
+		"Marché",
 		"Grainothèque",
+		"Eau potable",
 		"Ressourcerie",
 		"Friperie",
 		"Occasion",
@@ -208,7 +212,6 @@
 		"Atelier",
 		"Couturier",
 		"DIY",
-		"Fablab",
 		"RepairCafé",
 		"Réparation",
 		"Artothèque",
