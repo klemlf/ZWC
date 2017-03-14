@@ -3,7 +3,7 @@
     "mode" : "server",
     "skin" : {
         "title" : "Carte Zéro Déchet Versailles Grand Parc",
-        "shortDescription" : "Carte Zéro Déchet des Colibris Versailles Grand Parc (v2017/03/14-14h28)",
+        "shortDescription" : "Carte Zéro Déchet des Colibris Versailles Grand Parc (v2017/03/14-14h48)",
         "displayScope" : false,
         "docs":true,
         "displayCommunexion" : true,
@@ -65,7 +65,7 @@
 			"Outils (Occasion)":["Outils","Occasion"],
 			"Puériculture (Occasion)":["Puériculture","Occasion"],
 			"Friperie":"Friperie",
-			"Vêtement (Occasion)":["Vêtement","Occasion"]
+			"Vêtements (Occasion)":["Vêtements","Occasion"]
                 }
             },
 	    
@@ -85,7 +85,6 @@
                 "image" : "Reparation.png",
                 "tags" : {
 			"Réparation":"Réparation",
-			"Atelier":"Atelier",
 			"Fablab":"Fablab",
 			"Repair Café":"RepairCafé",
 			"Couturier":"Couturier"
@@ -162,7 +161,6 @@
 		"Friperie",
 		"Occasion",
 		"Don",
-		"Atelier",
 		"Fablab",
 		"RepairCafé",
 		"Réparation",
