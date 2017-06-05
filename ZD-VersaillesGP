@@ -2,8 +2,8 @@
     "name" : "Carte ZéroDéchet",
     "mode" : "server",
     "skin" : {
-        "title" : "Carte Zéro Déchet Versailles Grand Parc",
-        "shortDescription" : "Carte Zéro Déchet des Colibris Versailles Grand Parc (v2017/03/15-16h00)",
+       "title" : "Carte Zéro Déchet Versailles Grand Parc",
+	"shortDescription" : "Carte Zéro Déchet des Colibris Versailles Grand Parc (v2017/05/06-14h20)",
         "displayScope" : false,
         "docs":true,
         "displayCommunexion" : true,
@@ -127,11 +127,10 @@
     },
     "request" : {
         "sourcekey" : "zeroDechet",
-	"pagination" : 1000,
+        "pagination" : 1000,
         "searchType" : [
             "organizations"
         ],
-
         "searchLocalityNAME" : [
 		"Versailles",
 	        "Bailly",
@@ -152,9 +151,9 @@
 		"Toussus-le-Noble",
 		"Vélizy-Villacoublay",
 		"Viroflay"
-        ],
-	
-	"searchTag" : [
+],
+
+        "searchTag" : [
 		"Recyclage",
 		"Compost",
 		"Ressourcerie",
